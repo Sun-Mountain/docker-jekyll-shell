@@ -29,20 +29,16 @@ global_nav:
     id: home
   - title: Documentation
     id: docs
-  - title: Try the API
-    id: sandbox-user-guide
-  - title: Learn about Production
-    id: prod-user-guide
-  - title: Understand BCDA Data
-    id: data-guide
+  - title: Support
+    id: support
 
 footer_nav:
-  - title: Try the API
-    id: sandbox-user-guide
-  - title: Learn about Production
-    id: prod-user-guide
-  - title: Understand BCDA Data
-    id: data-guide
+  - title: Documentation
+    id: docs
+  - title: Frequently asked questions
+    id: faq
+  - title: Terms of Service
+    id: tos
 
 # Build settings
 markdown: kramdown

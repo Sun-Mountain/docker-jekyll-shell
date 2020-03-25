@@ -46,6 +46,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+#
+sass:
+  sass_dir: _sass
+  load_paths:
+    - _sass
+    - node_modules
+  style: compressed
+
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -57,3 +65,4 @@ exclude:
   - README.md
   - Dockerfiles/
   - docker-compose.yml
+  - node_modules

@@ -40,6 +40,14 @@ footer_nav:
   - title: Terms of Service
     id: tos
 
+docs_nav:
+  - title: Intro
+    id: docs-intro
+  - title: Sandbox
+    id: docs-sandbox
+  - title: Production
+    id: docs-production
+
 # Build settings
 markdown: kramdown
 theme: minima

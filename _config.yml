@@ -65,4 +65,3 @@ exclude:
   - README.md
   - Dockerfiles/
   - docker-compose.yml
-  - node_modules

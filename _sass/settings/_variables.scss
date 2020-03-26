@@ -1,0 +1,13 @@
+
+// Breakpoints
+$width-nav: 860px;
+$layout-breakpoint: 965px;
+
+// Replace US WDS font stacks with HealthCare.gov font stacks
+$font-sans: 'Roboto', sans-serif;
+$font-mono: 'Roboto Mono', monospace;
+
+// Z-indexes
+$z-index-nav:      8000;
+$z-index-overlay:     9000;
+$z-index-flyout:     10000;
